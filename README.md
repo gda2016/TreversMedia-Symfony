@@ -5,7 +5,7 @@ A Symfony project created on June 15, 2017, 5:03 pm.
 git@github.com:gda2016/TreversMedia-Symfony.git
 ## Part 1
 ### Installation
-```$ sudo mkdir -p /usr/local/bin`
+```$ sudo mkdir -p /usr/local/bin
 $ sudo curl -LsS https://symfony.com/installer -o /usr/local/bin/symfony
 $ sudo chmod a+x /usr/local/bin/symfony```
 
