@@ -6,7 +6,9 @@ git@github.com:gda2016/TreversMedia-Symfony.git
 ## Part 1
 ### Installation
 `$ sudo mkdir -p /usr/local/bin
+
 $ sudo curl -LsS https://symfony.com/installer -o /usr/local/bin/symfony
+
 $ sudo chmod a+x /usr/local/bin/symfony`
 
 ### Create a Project
@@ -68,12 +70,17 @@ Git
 ===
 ## Basic Commands
 `$git init // Initialize Local Git Repository
+
 $ git config --global user.name 'gda2016'
+
 $ git config --global user.email 'gda10672@gmail.com'`
   ### Change config:
-      `$ git config user.name // Show User Name`
-      - $ git config --list // Show All
-      - $ ~/.gitconfig // File System location
+      `$ git config user.name // Show User Name
+      
+       $ git config --list // Show All
+       
+       $ ~/.gitconfig // File System location`
+      
 
 - $ git add {<file>, <.>, *.html} // Add File(s) To Index
   - $ git rm --cached {<file>, *.html} // Remove Cached file(s)
