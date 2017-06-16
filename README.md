@@ -95,7 +95,7 @@ $ git config --global user.email 'gda10672@gmail.com'`
 ## Branch
 - $ git branch login // Create Branch
 - $ git checkout login // Switch Branch
-- $git merge login
+- $ git merge login
 
 ## What Is MVC? Simple Example
 ### Model
